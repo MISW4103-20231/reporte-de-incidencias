@@ -7,32 +7,30 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# Comportamiento Esperado:
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+<!-- Escriba qué debería suceder -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+# Comportamiento Actual:
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!-- Escriba qué sucedió en realidad -->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+# Pasos a reproducir:
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+1.
+2.
+3.
 
-**Additional context**
-Add any other context about the problem here.
+# Evidencias
+
+<!-- Adjunte imágenes, videos o links que evidencien la falla -->
+
+# Contexto (Ambiente de ejecución)
+
+* Versión de la App: <!-- Qué versión de la App ejecutaba cuando el error ocurrió? -->
+* Sistema Operativo: <!-- Qué sistema operativo ejecutaba cuando el error ocurrió? Mac XX, Windows XX, Ubuntu XX --> 
+* Navegador: <!--  Ingrese el (nombre y la versión) [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX |  Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX  WKWebView ] -->
+
+# Información adicional
+
+<!-- Describa datos adicionales a los que se tenga acceso respecto al defecto. Por ejemplo, trazas de error, defecto similares ya reportados, posible solución, posible implementación de la solución, links a recursos externos que brinden más información: stackoverflow, gitter, etc -->
